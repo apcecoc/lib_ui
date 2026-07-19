@@ -344,7 +344,7 @@ historyScrollBgOver: #517c416b; // scroll bar background with mouse over the scr
 
 msgInBg: windowBg; // inbox message background
 msgInBgSelected: #c2dcf2; // inbox selected message background (and background of selected text in those messages)
-msgOutBg: #f3e8ff; // outbox message background
+msgOutBg: #c9a8f5; // outbox message background
 msgOutBgSelected: #e9dcfc; // outbox selected message background (and background of selected text in those messages)
 msgSelectOverlay: #358cd44c; // overlay which is filling the media parts of selected messages (like in selected photo message)
 msgStickerOverlay: #358cd47f; // overlay which is filling the selected sticker message
